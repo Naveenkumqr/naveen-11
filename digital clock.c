@@ -36,5 +36,4 @@ sleep(d);
 system("cls");
 }
 }
-}
-}
+
